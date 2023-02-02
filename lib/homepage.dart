@@ -47,7 +47,7 @@ class BusmiessCardApp extends StatelessWidget {
               child: const ListTile(
                 leading: Icon(Icons.call ,  color: Color(0xFF2B475E),),
                 title: Text(
-                  '(+972) 0599722157',
+                  '(+972) 2343343434',
                   style: TextStyle(  color: Color(0xFF2B475E),
                     fontSize: 24,),
                 ),
